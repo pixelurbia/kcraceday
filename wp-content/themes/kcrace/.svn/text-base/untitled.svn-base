@@ -1,0 +1,137 @@
+
+<?php
+/*
+Template Name: Home
+*/
+?>
+
+<?php get_template_part('templates/header'); ?>
+
+
+
+
+
+
+
+
+
+
+
+<div id="plus_row" class="herotop">
+		<div class="row">
+			<div class="contentWrap">
+<div class="hero">
+	<div class="htext">
+		<h1><?php the_field('home_page_slide_heading'); ?></h1>
+		<h3><?php the_field('home_page_slide_tagline'); ?></h3>
+	</div>
+<a href="<?php the_field('youtube_video_links'); ?>" class="herobox" ><img src="<?php the_field('home_page_slide'); ?>"></a>
+
+
+</div>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="htext mobile">
+		<h1><?php the_field('home_page_slide_heading'); ?></h1>
+		<h3><?php the_field('home_page_slide_tagline'); ?></h3>
+	</div>
+	<div class="homepageFaq">
+
+	<h1 class="tk-brandon-grotesque" ><?php the_field('mid_section_title'); ?></h1>
+		<div class="postContain">
+			<?php
+			    query_posts( array('posts_per_page'=> 6, 'category_name'=>'FAQ', 'orderby' => 'date', 'order' => 'ASC') );
+			    while ( have_posts() ) : the_post();
+			?>
+			    <h2><span>+</span><a href="<?php the_permalink(' ') ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a></h2>
+			    <?php if ( has_post_thumbnail() ): // check for the featured image ?>
+			   <!--  <a href="<?php the_permalink(' ') ?>" title="<?php the_title(); ?>" class="opacity"><?php the_post_thumbnail(); ?></a> --> <!--echo the featured image-->
+			<?php
+			    endif;
+			    // the_excerpt(); // echo the excerpt
+			    endwhile;
+			    wp_reset_query(); // resets main query
+			?>
+
+		</div>
+	</div>
+</div>
+
+<div class="midBanner">
+	<div class="row">
+		<div class="banner">
+			<div class="contentWrap">
+
+				<?php if(get_field('cta_row')): ?>
+					<?php while(has_sub_field('cta_row')): ?>
+
+					<h1 class="tk-brandon-grotesque left"><?php the_sub_field('cta_title'); ?></h1>
+					<div class="left section"><?php the_sub_field('cta_content'); ?>
+						<a href="<?php the_sub_field('cta_url'); ?>"><?php the_sub_field('cta_link'); ?></a>
+					</div> 
+					 
+					<?php endwhile; ?>
+				<?php endif; ?>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="lowerSection">
+	<div class="row">
+		<div class="contentWrap">
+			<h2 class="tk-brandon-grotesque left"><?php the_field('services_title'); ?></h2>
+		
+			<?php if(get_field('our_services')): ?>
+				<?php while(has_sub_field('our_services')): ?>
+					
+						<div class="col-1-3">
+							<img class="featImage" src="<?php the_sub_field('service_icon'); ?>">
+							<h3 class="title"><?php the_sub_field('service_title'); ?></h3>
+							<p class="content"><?php the_sub_field('service_content'); ?></p>
+							<a class="btn tk-brandon-grotesque" href="<?php the_sub_field('button_url'); ?>">Learn More<span></span></a>
+						</div>
+					
+				<?php endwhile; ?>
+			<?php endif; ?>
+
+		</div>
+	</div>
+</div>
+
+
+<div class="testimonials">
+	<div class="row">
+		<div class="contentWrap">
+			<h2 class="tk-brandon-grotesque">What our clients are saying</h2>
+			<ul class="bxslider">
+				<?php if(get_field('testimonials')): ?>
+					<?php while(has_sub_field('testimonials')): ?>
+						<li class="entry">
+							<div class="testFrame">
+								<div class="NamArea"> 	
+									<img src="<?php the_sub_field('img_url'); ?>">
+								 	
+								 	<p class="name tk-brandon-grotesque"><?php the_sub_field('first_name'); ?> <?php the_sub_field('last_name'); ?></p>
+								  	<p class="title tk-brandon-grotesque"><?php the_sub_field('title'); ?></p>
+								  	<p class="company tk-brandon-grotesque"><?php the_sub_field('company'); ?></p>
+									
+								</div>
+								<div class="conArea">
+								  	<p class="content">"<?php the_sub_field('content'); ?>"</p>
+								    <a class="readmore" href="<?php the_field('read_more_link'); ?><">Read More</a>
+								</div>
+							</div>
+					   	</li>
+					<?php endwhile; ?>
+				<?php endif; ?>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+<?php get_template_part('templates/footer'); ?>

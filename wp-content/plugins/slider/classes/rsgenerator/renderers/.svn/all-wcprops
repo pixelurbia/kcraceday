@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/classes/rsgenerator/renderers
+END
+DefaultRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/classes/rsgenerator/renderers/DefaultRenderer.php
+END
+PostsListRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/classes/rsgenerator/renderers/PostsListRenderer.php
+END
+InstagramRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/classes/rsgenerator/renderers/InstagramRenderer.php
+END
+PostGalleryRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/classes/rsgenerator/renderers/PostGalleryRenderer.php
+END
+NextGenRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/classes/rsgenerator/renderers/NextGenRenderer.php
+END
+CustomSourceRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/classes/rsgenerator/renderers/CustomSourceRenderer.php
+END

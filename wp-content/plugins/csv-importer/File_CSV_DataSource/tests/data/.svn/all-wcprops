@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data
+END
+non_csv_extension.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/non_csv_extension.txt
+END
+raw.csv
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/raw.csv
+END
+escape_ok.csv
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/escape_ok.csv
+END
+uppercased.CSV
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/uppercased.CSV
+END
+another_symmetric.csv
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/another_symmetric.csv
+END
+symmetric_with_trailing_spaces.csv
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/symmetric_with_trailing_spaces.csv
+END
+empty.csv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/empty.csv
+END
+symmetric_with_empty_records.csv
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/symmetric_with_empty_records.csv
+END
+one_row_only.csv
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/one_row_only.csv
+END
+symmetric.csv
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/symmetric.csv
+END
+only_headers.csv
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/only_headers.csv
+END
+asymmetric.csv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/asymmetric.csv
+END
+symmetric_with_empty_lines.csv
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/symmetric_with_empty_lines.csv
+END
+multcased.CsV
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/multcased.CsV
+END
+longer_headers.csv
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/longer_headers.csv
+END
+escape_ng.csv
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/File_CSV_DataSource/tests/data/escape_ng.csv
+END

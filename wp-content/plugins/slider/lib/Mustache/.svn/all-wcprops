@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache
+END
+Compiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Compiler.php
+END
+Tokenizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Tokenizer.php
+END
+HelperCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/HelperCollection.php
+END
+Template.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Template.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Parser.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Autoloader.php
+END
+Context.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Context.php
+END
+Engine.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Engine.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Loader.php
+END

@@ -1,0 +1,1090 @@
+<modify-entry
+   name="3DS5402-M717420-Certificate-of-Insurance-2.pdf"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/3DS5402-M717420-Certificate-of-Insurance-2.pdf.svn-base"
+   name=".svn/prop-base/tempfile.tmp"/>
+<readonly
+   name=".svn/prop-base/3DS5402-M717420-Certificate-of-Insurance-2.pdf.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="3DS5402-M717420-Certificate-of-Insurance-2.pdf"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="3DS5402-M717420-Certificate-of-Insurance-2.pdf"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/3DS5402-M717420-Certificate-of-Insurance-2.pdf"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="3DS5402-M717420-Certificate-of-Insurance-2.pdf"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="3DS5402-M717420-Certificate-of-Insurance-2.pdf"
+   name=".svn/tmp/text-base/3DS5402-M717420-Certificate-of-Insurance-2.pdf.svn-base"/>
+<mv
+   dest=".svn/text-base/3DS5402-M717420-Certificate-of-Insurance-2.pdf.svn-base"
+   name=".svn/tmp/text-base/3DS5402-M717420-Certificate-of-Insurance-2.pdf.svn-base"/>
+<readonly
+   name=".svn/text-base/3DS5402-M717420-Certificate-of-Insurance-2.pdf.svn-base"/>
+<modify-entry
+   name="3DS5402-M717420-Certificate-of-Insurance-2.pdf"
+   checksum="55b1aae614874f44b91314d20127fa69"/>
+<modify-entry
+   name="3DS5402-M717420-Certificate-of-Insurance-2.pdf"
+   text-time="working"/>
+<modify-entry
+   name="3DS5402-M717420-Certificate-of-Insurance-2.pdf"
+   working-size="working"/>
+<modify-entry
+   name="3DS5402-M717404-Certificate-of-Insurance-1.pdf"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/3DS5402-M717404-Certificate-of-Insurance-1.pdf.svn-base"
+   name=".svn/prop-base/tempfile.2.tmp"/>
+<readonly
+   name=".svn/prop-base/3DS5402-M717404-Certificate-of-Insurance-1.pdf.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="3DS5402-M717404-Certificate-of-Insurance-1.pdf"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="3DS5402-M717404-Certificate-of-Insurance-1.pdf"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/3DS5402-M717404-Certificate-of-Insurance-1.pdf"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="3DS5402-M717404-Certificate-of-Insurance-1.pdf"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="3DS5402-M717404-Certificate-of-Insurance-1.pdf"
+   name=".svn/tmp/text-base/3DS5402-M717404-Certificate-of-Insurance-1.pdf.svn-base"/>
+<mv
+   dest=".svn/text-base/3DS5402-M717404-Certificate-of-Insurance-1.pdf.svn-base"
+   name=".svn/tmp/text-base/3DS5402-M717404-Certificate-of-Insurance-1.pdf.svn-base"/>
+<readonly
+   name=".svn/text-base/3DS5402-M717404-Certificate-of-Insurance-1.pdf.svn-base"/>
+<modify-entry
+   name="3DS5402-M717404-Certificate-of-Insurance-1.pdf"
+   checksum="2fc86e7d9857108d9322d912d0c02fd7"/>
+<modify-entry
+   name="3DS5402-M717404-Certificate-of-Insurance-1.pdf"
+   text-time="working"/>
+<modify-entry
+   name="3DS5402-M717404-Certificate-of-Insurance-1.pdf"
+   working-size="working"/>
+<modify-entry
+   name="Grub-Run-5k-cleanup-agreement.docx"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Grub-Run-5k-cleanup-agreement.docx.svn-base"
+   name=".svn/prop-base/tempfile.3.tmp"/>
+<readonly
+   name=".svn/prop-base/Grub-Run-5k-cleanup-agreement.docx.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="Grub-Run-5k-cleanup-agreement.docx"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="Grub-Run-5k-cleanup-agreement.docx"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/Grub-Run-5k-cleanup-agreement.docx"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Grub-Run-5k-cleanup-agreement.docx"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="Grub-Run-5k-cleanup-agreement.docx"
+   name=".svn/tmp/text-base/Grub-Run-5k-cleanup-agreement.docx.svn-base"/>
+<mv
+   dest=".svn/text-base/Grub-Run-5k-cleanup-agreement.docx.svn-base"
+   name=".svn/tmp/text-base/Grub-Run-5k-cleanup-agreement.docx.svn-base"/>
+<readonly
+   name=".svn/text-base/Grub-Run-5k-cleanup-agreement.docx.svn-base"/>
+<modify-entry
+   name="Grub-Run-5k-cleanup-agreement.docx"
+   checksum="53fa20bde7599b2d49b2fbe5c6d889b8"/>
+<modify-entry
+   name="Grub-Run-5k-cleanup-agreement.docx"
+   text-time="working"/>
+<modify-entry
+   name="Grub-Run-5k-cleanup-agreement.docx"
+   working-size="working"/>
+<modify-entry
+   name="List-of-Addresses-on-Course.doc"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/List-of-Addresses-on-Course.doc.svn-base"
+   name=".svn/prop-base/tempfile.4.tmp"/>
+<readonly
+   name=".svn/prop-base/List-of-Addresses-on-Course.doc.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="List-of-Addresses-on-Course.doc"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="List-of-Addresses-on-Course.doc"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/List-of-Addresses-on-Course.doc"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="List-of-Addresses-on-Course.doc"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="List-of-Addresses-on-Course.doc"
+   name=".svn/tmp/text-base/List-of-Addresses-on-Course.doc.svn-base"/>
+<mv
+   dest=".svn/text-base/List-of-Addresses-on-Course.doc.svn-base"
+   name=".svn/tmp/text-base/List-of-Addresses-on-Course.doc.svn-base"/>
+<readonly
+   name=".svn/text-base/List-of-Addresses-on-Course.doc.svn-base"/>
+<modify-entry
+   name="List-of-Addresses-on-Course.doc"
+   checksum="e5825145dda90e37832f1dd3ea9e1ee9"/>
+<modify-entry
+   name="List-of-Addresses-on-Course.doc"
+   text-time="working"/>
+<modify-entry
+   name="List-of-Addresses-on-Course.doc"
+   working-size="working"/>
+<modify-entry
+   name="3DS5402-M717440-Certificate-of-Insurance-4.pdf"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/3DS5402-M717440-Certificate-of-Insurance-4.pdf.svn-base"
+   name=".svn/prop-base/tempfile.5.tmp"/>
+<readonly
+   name=".svn/prop-base/3DS5402-M717440-Certificate-of-Insurance-4.pdf.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="3DS5402-M717440-Certificate-of-Insurance-4.pdf"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="3DS5402-M717440-Certificate-of-Insurance-4.pdf"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/3DS5402-M717440-Certificate-of-Insurance-4.pdf"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="3DS5402-M717440-Certificate-of-Insurance-4.pdf"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="3DS5402-M717440-Certificate-of-Insurance-4.pdf"
+   name=".svn/tmp/text-base/3DS5402-M717440-Certificate-of-Insurance-4.pdf.svn-base"/>
+<mv
+   dest=".svn/text-base/3DS5402-M717440-Certificate-of-Insurance-4.pdf.svn-base"
+   name=".svn/tmp/text-base/3DS5402-M717440-Certificate-of-Insurance-4.pdf.svn-base"/>
+<readonly
+   name=".svn/text-base/3DS5402-M717440-Certificate-of-Insurance-4.pdf.svn-base"/>
+<modify-entry
+   name="3DS5402-M717440-Certificate-of-Insurance-4.pdf"
+   checksum="e9c0175efdc2d66b61f514503e77b676"/>
+<modify-entry
+   name="3DS5402-M717440-Certificate-of-Insurance-4.pdf"
+   text-time="working"/>
+<modify-entry
+   name="3DS5402-M717440-Certificate-of-Insurance-4.pdf"
+   working-size="working"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement1.doc"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Proof-of-Cleanup-Agreement1.doc.svn-base"
+   name=".svn/prop-base/tempfile.6.tmp"/>
+<readonly
+   name=".svn/prop-base/Proof-of-Cleanup-Agreement1.doc.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="Proof-of-Cleanup-Agreement1.doc"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="Proof-of-Cleanup-Agreement1.doc"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/Proof-of-Cleanup-Agreement1.doc"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Proof-of-Cleanup-Agreement1.doc"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="Proof-of-Cleanup-Agreement1.doc"
+   name=".svn/tmp/text-base/Proof-of-Cleanup-Agreement1.doc.svn-base"/>
+<mv
+   dest=".svn/text-base/Proof-of-Cleanup-Agreement1.doc.svn-base"
+   name=".svn/tmp/text-base/Proof-of-Cleanup-Agreement1.doc.svn-base"/>
+<readonly
+   name=".svn/text-base/Proof-of-Cleanup-Agreement1.doc.svn-base"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement1.doc"
+   checksum="961b4d6c7666cedd40a5db6e3effb00f"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement1.doc"
+   text-time="working"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement1.doc"
+   working-size="working"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement2.doc"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Proof-of-Cleanup-Agreement2.doc.svn-base"
+   name=".svn/prop-base/tempfile.7.tmp"/>
+<readonly
+   name=".svn/prop-base/Proof-of-Cleanup-Agreement2.doc.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="Proof-of-Cleanup-Agreement2.doc"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="Proof-of-Cleanup-Agreement2.doc"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/Proof-of-Cleanup-Agreement2.doc"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Proof-of-Cleanup-Agreement2.doc"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="Proof-of-Cleanup-Agreement2.doc"
+   name=".svn/tmp/text-base/Proof-of-Cleanup-Agreement2.doc.svn-base"/>
+<mv
+   dest=".svn/text-base/Proof-of-Cleanup-Agreement2.doc.svn-base"
+   name=".svn/tmp/text-base/Proof-of-Cleanup-Agreement2.doc.svn-base"/>
+<readonly
+   name=".svn/text-base/Proof-of-Cleanup-Agreement2.doc.svn-base"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement2.doc"
+   checksum="40ec0b074d5905c134ba6e6b1629f9fe"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement2.doc"
+   text-time="working"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement2.doc"
+   working-size="working"/>
+<modify-entry
+   name="kctcliabilityinsurance.pdf"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/kctcliabilityinsurance.pdf.svn-base"
+   name=".svn/prop-base/tempfile.8.tmp"/>
+<readonly
+   name=".svn/prop-base/kctcliabilityinsurance.pdf.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="kctcliabilityinsurance.pdf"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="kctcliabilityinsurance.pdf"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/kctcliabilityinsurance.pdf"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="kctcliabilityinsurance.pdf"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="kctcliabilityinsurance.pdf"
+   name=".svn/tmp/text-base/kctcliabilityinsurance.pdf.svn-base"/>
+<mv
+   dest=".svn/text-base/kctcliabilityinsurance.pdf.svn-base"
+   name=".svn/tmp/text-base/kctcliabilityinsurance.pdf.svn-base"/>
+<readonly
+   name=".svn/text-base/kctcliabilityinsurance.pdf.svn-base"/>
+<modify-entry
+   name="kctcliabilityinsurance.pdf"
+   checksum="ee957330f2daa27e565b680daa9ed198"/>
+<modify-entry
+   name="kctcliabilityinsurance.pdf"
+   text-time="working"/>
+<modify-entry
+   name="kctcliabilityinsurance.pdf"
+   working-size="working"/>
+<modify-entry
+   name="image0021.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/image0021.png.svn-base"
+   name=".svn/prop-base/tempfile.9.tmp"/>
+<readonly
+   name=".svn/prop-base/image0021.png.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="image0021.png"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="image0021.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/image0021.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="image0021.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="image0021.png"
+   name=".svn/tmp/text-base/image0021.png.svn-base"/>
+<mv
+   dest=".svn/text-base/image0021.png.svn-base"
+   name=".svn/tmp/text-base/image0021.png.svn-base"/>
+<readonly
+   name=".svn/text-base/image0021.png.svn-base"/>
+<modify-entry
+   name="image0021.png"
+   checksum="715dc7ca01df5bc5b9e7c793df8838ec"/>
+<modify-entry
+   name="image0021.png"
+   text-time="working"/>
+<modify-entry
+   name="image0021.png"
+   working-size="working"/>
+<modify-entry
+   name="index.html"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/index.html.svn-base"
+   name=".svn/prop-base/tempfile.10.tmp"/>
+<readonly
+   name=".svn/prop-base/index.html.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="index.html"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="index.html"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/index.html"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="index.html"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="index.html"
+   name=".svn/tmp/text-base/index.html.svn-base"/>
+<mv
+   dest=".svn/text-base/index.html.svn-base"
+   name=".svn/tmp/text-base/index.html.svn-base"/>
+<readonly
+   name=".svn/text-base/index.html.svn-base"/>
+<modify-entry
+   name="index.html"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"/>
+<modify-entry
+   name="index.html"
+   text-time="working"/>
+<modify-entry
+   name="index.html"
+   working-size="working"/>
+<modify-entry
+   name="B2BKCMOProofPublication.docx"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/B2BKCMOProofPublication.docx.svn-base"
+   name=".svn/prop-base/tempfile.11.tmp"/>
+<readonly
+   name=".svn/prop-base/B2BKCMOProofPublication.docx.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="B2BKCMOProofPublication.docx"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="B2BKCMOProofPublication.docx"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/B2BKCMOProofPublication.docx"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="B2BKCMOProofPublication.docx"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="B2BKCMOProofPublication.docx"
+   name=".svn/tmp/text-base/B2BKCMOProofPublication.docx.svn-base"/>
+<mv
+   dest=".svn/text-base/B2BKCMOProofPublication.docx.svn-base"
+   name=".svn/tmp/text-base/B2BKCMOProofPublication.docx.svn-base"/>
+<readonly
+   name=".svn/text-base/B2BKCMOProofPublication.docx.svn-base"/>
+<modify-entry
+   name="B2BKCMOProofPublication.docx"
+   checksum="3800ca9b6d2f70c18eefdeecbb87e155"/>
+<modify-entry
+   name="B2BKCMOProofPublication.docx"
+   text-time="working"/>
+<modify-entry
+   name="B2BKCMOProofPublication.docx"
+   working-size="working"/>
+<modify-entry
+   name="Letter-to-Course-Residents.doc"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Letter-to-Course-Residents.doc.svn-base"
+   name=".svn/prop-base/tempfile.12.tmp"/>
+<readonly
+   name=".svn/prop-base/Letter-to-Course-Residents.doc.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="Letter-to-Course-Residents.doc"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="Letter-to-Course-Residents.doc"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/Letter-to-Course-Residents.doc"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Letter-to-Course-Residents.doc"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="Letter-to-Course-Residents.doc"
+   name=".svn/tmp/text-base/Letter-to-Course-Residents.doc.svn-base"/>
+<mv
+   dest=".svn/text-base/Letter-to-Course-Residents.doc.svn-base"
+   name=".svn/tmp/text-base/Letter-to-Course-Residents.doc.svn-base"/>
+<readonly
+   name=".svn/text-base/Letter-to-Course-Residents.doc.svn-base"/>
+<modify-entry
+   name="Letter-to-Course-Residents.doc"
+   checksum="eaf8b0d058cebcd5ffb3623a3cf38b44"/>
+<modify-entry
+   name="Letter-to-Course-Residents.doc"
+   text-time="working"/>
+<modify-entry
+   name="Letter-to-Course-Residents.doc"
+   working-size="working"/>
+<modify-entry
+   name="B2BKCMOProofcleanup-Brew2.doc"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/B2BKCMOProofcleanup-Brew2.doc.svn-base"
+   name=".svn/prop-base/tempfile.13.tmp"/>
+<readonly
+   name=".svn/prop-base/B2BKCMOProofcleanup-Brew2.doc.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="B2BKCMOProofcleanup-Brew2.doc"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="B2BKCMOProofcleanup-Brew2.doc"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/B2BKCMOProofcleanup-Brew2.doc"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="B2BKCMOProofcleanup-Brew2.doc"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="B2BKCMOProofcleanup-Brew2.doc"
+   name=".svn/tmp/text-base/B2BKCMOProofcleanup-Brew2.doc.svn-base"/>
+<mv
+   dest=".svn/text-base/B2BKCMOProofcleanup-Brew2.doc.svn-base"
+   name=".svn/tmp/text-base/B2BKCMOProofcleanup-Brew2.doc.svn-base"/>
+<readonly
+   name=".svn/text-base/B2BKCMOProofcleanup-Brew2.doc.svn-base"/>
+<modify-entry
+   name="B2BKCMOProofcleanup-Brew2.doc"
+   checksum="13151699ee6b84dc3b00d58ca03c31e8"/>
+<modify-entry
+   name="B2BKCMOProofcleanup-Brew2.doc"
+   text-time="working"/>
+<modify-entry
+   name="B2BKCMOProofcleanup-Brew2.doc"
+   working-size="working"/>
+<modify-entry
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.doc"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Notification-of-Adjacent-Property-Owners-and-Businesses.doc.svn-base"
+   name=".svn/prop-base/tempfile.14.tmp"/>
+<readonly
+   name=".svn/prop-base/Notification-of-Adjacent-Property-Owners-and-Businesses.doc.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.doc"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.doc"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/Notification-of-Adjacent-Property-Owners-and-Businesses.doc"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.doc"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="Notification-of-Adjacent-Property-Owners-and-Businesses.doc"
+   name=".svn/tmp/text-base/Notification-of-Adjacent-Property-Owners-and-Businesses.doc.svn-base"/>
+<mv
+   dest=".svn/text-base/Notification-of-Adjacent-Property-Owners-and-Businesses.doc.svn-base"
+   name=".svn/tmp/text-base/Notification-of-Adjacent-Property-Owners-and-Businesses.doc.svn-base"/>
+<readonly
+   name=".svn/text-base/Notification-of-Adjacent-Property-Owners-and-Businesses.doc.svn-base"/>
+<modify-entry
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.doc"
+   checksum="4b1bd7cef06943d7250bb9f7da492aaa"/>
+<modify-entry
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.doc"
+   text-time="working"/>
+<modify-entry
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.doc"
+   working-size="working"/>
+<modify-entry
+   name="B2BKCMOLetterAdjacentPropertyOwners.odt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/B2BKCMOLetterAdjacentPropertyOwners.odt.svn-base"
+   name=".svn/prop-base/tempfile.15.tmp"/>
+<readonly
+   name=".svn/prop-base/B2BKCMOLetterAdjacentPropertyOwners.odt.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="B2BKCMOLetterAdjacentPropertyOwners.odt"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="B2BKCMOLetterAdjacentPropertyOwners.odt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/B2BKCMOLetterAdjacentPropertyOwners.odt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="B2BKCMOLetterAdjacentPropertyOwners.odt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="B2BKCMOLetterAdjacentPropertyOwners.odt"
+   name=".svn/tmp/text-base/B2BKCMOLetterAdjacentPropertyOwners.odt.svn-base"/>
+<mv
+   dest=".svn/text-base/B2BKCMOLetterAdjacentPropertyOwners.odt.svn-base"
+   name=".svn/tmp/text-base/B2BKCMOLetterAdjacentPropertyOwners.odt.svn-base"/>
+<readonly
+   name=".svn/text-base/B2BKCMOLetterAdjacentPropertyOwners.odt.svn-base"/>
+<modify-entry
+   name="B2BKCMOLetterAdjacentPropertyOwners.odt"
+   checksum="d4b988c8be840a0f3ab550e61873963f"/>
+<modify-entry
+   name="B2BKCMOLetterAdjacentPropertyOwners.odt"
+   text-time="working"/>
+<modify-entry
+   name="B2BKCMOLetterAdjacentPropertyOwners.odt"
+   working-size="working"/>
+<modify-entry
+   name="B2BListofaddressestonotify.doc"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/B2BListofaddressestonotify.doc.svn-base"
+   name=".svn/prop-base/tempfile.16.tmp"/>
+<readonly
+   name=".svn/prop-base/B2BListofaddressestonotify.doc.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="B2BListofaddressestonotify.doc"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="B2BListofaddressestonotify.doc"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/B2BListofaddressestonotify.doc"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="B2BListofaddressestonotify.doc"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="B2BListofaddressestonotify.doc"
+   name=".svn/tmp/text-base/B2BListofaddressestonotify.doc.svn-base"/>
+<mv
+   dest=".svn/text-base/B2BListofaddressestonotify.doc.svn-base"
+   name=".svn/tmp/text-base/B2BListofaddressestonotify.doc.svn-base"/>
+<readonly
+   name=".svn/text-base/B2BListofaddressestonotify.doc.svn-base"/>
+<modify-entry
+   name="B2BListofaddressestonotify.doc"
+   checksum="1e8dfe5cc3933e28ef4fbf9483aa11f6"/>
+<modify-entry
+   name="B2BListofaddressestonotify.doc"
+   text-time="working"/>
+<modify-entry
+   name="B2BListofaddressestonotify.doc"
+   working-size="working"/>
+<modify-entry
+   name="B2Bpostcard.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/B2Bpostcard.jpg.svn-base"
+   name=".svn/prop-base/tempfile.17.tmp"/>
+<readonly
+   name=".svn/prop-base/B2Bpostcard.jpg.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="B2Bpostcard.jpg"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="B2Bpostcard.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/B2Bpostcard.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="B2Bpostcard.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="B2Bpostcard.jpg"
+   name=".svn/tmp/text-base/B2Bpostcard.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/B2Bpostcard.jpg.svn-base"
+   name=".svn/tmp/text-base/B2Bpostcard.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/B2Bpostcard.jpg.svn-base"/>
+<modify-entry
+   name="B2Bpostcard.jpg"
+   checksum="51ae2d19095f741492fe26f460373088"/>
+<modify-entry
+   name="B2Bpostcard.jpg"
+   text-time="working"/>
+<modify-entry
+   name="B2Bpostcard.jpg"
+   working-size="working"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement.doc"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Proof-of-Cleanup-Agreement.doc.svn-base"
+   name=".svn/prop-base/tempfile.18.tmp"/>
+<readonly
+   name=".svn/prop-base/Proof-of-Cleanup-Agreement.doc.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="Proof-of-Cleanup-Agreement.doc"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="Proof-of-Cleanup-Agreement.doc"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/Proof-of-Cleanup-Agreement.doc"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Proof-of-Cleanup-Agreement.doc"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="Proof-of-Cleanup-Agreement.doc"
+   name=".svn/tmp/text-base/Proof-of-Cleanup-Agreement.doc.svn-base"/>
+<mv
+   dest=".svn/text-base/Proof-of-Cleanup-Agreement.doc.svn-base"
+   name=".svn/tmp/text-base/Proof-of-Cleanup-Agreement.doc.svn-base"/>
+<readonly
+   name=".svn/text-base/Proof-of-Cleanup-Agreement.doc.svn-base"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement.doc"
+   checksum="7586dfc920dd860a92a86489c0ec111a"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement.doc"
+   text-time="working"/>
+<modify-entry
+   name="Proof-of-Cleanup-Agreement.doc"
+   working-size="working"/>
+<modify-entry
+   name="Grub-Run-5k-cleanup-agreement1.docx"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Grub-Run-5k-cleanup-agreement1.docx.svn-base"
+   name=".svn/prop-base/tempfile.19.tmp"/>
+<readonly
+   name=".svn/prop-base/Grub-Run-5k-cleanup-agreement1.docx.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="Grub-Run-5k-cleanup-agreement1.docx"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="Grub-Run-5k-cleanup-agreement1.docx"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/Grub-Run-5k-cleanup-agreement1.docx"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Grub-Run-5k-cleanup-agreement1.docx"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="Grub-Run-5k-cleanup-agreement1.docx"
+   name=".svn/tmp/text-base/Grub-Run-5k-cleanup-agreement1.docx.svn-base"/>
+<mv
+   dest=".svn/text-base/Grub-Run-5k-cleanup-agreement1.docx.svn-base"
+   name=".svn/tmp/text-base/Grub-Run-5k-cleanup-agreement1.docx.svn-base"/>
+<readonly
+   name=".svn/text-base/Grub-Run-5k-cleanup-agreement1.docx.svn-base"/>
+<modify-entry
+   name="Grub-Run-5k-cleanup-agreement1.docx"
+   checksum="53fa20bde7599b2d49b2fbe5c6d889b8"/>
+<modify-entry
+   name="Grub-Run-5k-cleanup-agreement1.docx"
+   text-time="working"/>
+<modify-entry
+   name="Grub-Run-5k-cleanup-agreement1.docx"
+   working-size="working"/>
+<modify-entry
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.pdf"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Notification-of-Adjacent-Property-Owners-and-Businesses.pdf.svn-base"
+   name=".svn/prop-base/tempfile.20.tmp"/>
+<readonly
+   name=".svn/prop-base/Notification-of-Adjacent-Property-Owners-and-Businesses.pdf.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.pdf"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.pdf"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/Notification-of-Adjacent-Property-Owners-and-Businesses.pdf"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.pdf"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="Notification-of-Adjacent-Property-Owners-and-Businesses.pdf"
+   name=".svn/tmp/text-base/Notification-of-Adjacent-Property-Owners-and-Businesses.pdf.svn-base"/>
+<mv
+   dest=".svn/text-base/Notification-of-Adjacent-Property-Owners-and-Businesses.pdf.svn-base"
+   name=".svn/tmp/text-base/Notification-of-Adjacent-Property-Owners-and-Businesses.pdf.svn-base"/>
+<readonly
+   name=".svn/text-base/Notification-of-Adjacent-Property-Owners-and-Businesses.pdf.svn-base"/>
+<modify-entry
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.pdf"
+   checksum="93b29cbf838fead8940bcd0081281a6f"/>
+<modify-entry
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.pdf"
+   text-time="working"/>
+<modify-entry
+   name="Notification-of-Adjacent-Property-Owners-and-Businesses.pdf"
+   working-size="working"/>
+<modify-entry
+   name="image002.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/image002.png.svn-base"
+   name=".svn/prop-base/tempfile.21.tmp"/>
+<readonly
+   name=".svn/prop-base/image002.png.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="image002.png"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="image002.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/image002.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="image002.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="image002.png"
+   name=".svn/tmp/text-base/image002.png.svn-base"/>
+<mv
+   dest=".svn/text-base/image002.png.svn-base"
+   name=".svn/tmp/text-base/image002.png.svn-base"/>
+<readonly
+   name=".svn/text-base/image002.png.svn-base"/>
+<modify-entry
+   name="image002.png"
+   checksum="715dc7ca01df5bc5b9e7c793df8838ec"/>
+<modify-entry
+   name="image002.png"
+   text-time="working"/>
+<modify-entry
+   name="image002.png"
+   working-size="working"/>
+<modify-entry
+   name="addresses-on-course.xls"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/addresses-on-course.xls.svn-base"
+   name=".svn/prop-base/tempfile.22.tmp"/>
+<readonly
+   name=".svn/prop-base/addresses-on-course.xls.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="addresses-on-course.xls"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="addresses-on-course.xls"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/addresses-on-course.xls"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="addresses-on-course.xls"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="addresses-on-course.xls"
+   name=".svn/tmp/text-base/addresses-on-course.xls.svn-base"/>
+<mv
+   dest=".svn/text-base/addresses-on-course.xls.svn-base"
+   name=".svn/tmp/text-base/addresses-on-course.xls.svn-base"/>
+<readonly
+   name=".svn/text-base/addresses-on-course.xls.svn-base"/>
+<modify-entry
+   name="addresses-on-course.xls"
+   checksum="bfc468e41f9250b8bd56d425457133df"/>
+<modify-entry
+   name="addresses-on-course.xls"
+   text-time="working"/>
+<modify-entry
+   name="addresses-on-course.xls"
+   working-size="working"/>
+<modify-entry
+   name="Addresses-on-course.xls"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Addresses-on-course.xls.svn-base"
+   name=".svn/prop-base/tempfile.23.tmp"/>
+<readonly
+   name=".svn/prop-base/Addresses-on-course.xls.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="Addresses-on-course.xls"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="Addresses-on-course.xls"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/Addresses-on-course.xls"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Addresses-on-course.xls"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="Addresses-on-course.xls"
+   name=".svn/tmp/text-base/Addresses-on-course.xls.svn-base"/>
+<mv
+   dest=".svn/text-base/Addresses-on-course.xls.svn-base"
+   name=".svn/tmp/text-base/Addresses-on-course.xls.svn-base"/>
+<readonly
+   name=".svn/text-base/Addresses-on-course.xls.svn-base"/>
+<modify-entry
+   name="Addresses-on-course.xls"
+   checksum="47fccda3286057bf111e9978264c3187"/>
+<modify-entry
+   name="Addresses-on-course.xls"
+   text-time="working"/>
+<modify-entry
+   name="Addresses-on-course.xls"
+   working-size="working"/>
+<modify-entry
+   name="KCMO-Proof-of-Publication-Brew-to-Brew.docx"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/KCMO-Proof-of-Publication-Brew-to-Brew.docx.svn-base"
+   name=".svn/prop-base/tempfile.24.tmp"/>
+<readonly
+   name=".svn/prop-base/KCMO-Proof-of-Publication-Brew-to-Brew.docx.svn-base"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name="KCMO-Proof-of-Publication-Brew-to-Brew.docx"
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name="KCMO-Proof-of-Publication-Brew-to-Brew.docx"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12/KCMO-Proof-of-Publication-Brew-to-Brew.docx"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="KCMO-Proof-of-Publication-Brew-to-Brew.docx"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="KCMO-Proof-of-Publication-Brew-to-Brew.docx"
+   name=".svn/tmp/text-base/KCMO-Proof-of-Publication-Brew-to-Brew.docx.svn-base"/>
+<mv
+   dest=".svn/text-base/KCMO-Proof-of-Publication-Brew-to-Brew.docx.svn-base"
+   name=".svn/tmp/text-base/KCMO-Proof-of-Publication-Brew-to-Brew.docx.svn-base"/>
+<readonly
+   name=".svn/text-base/KCMO-Proof-of-Publication-Brew-to-Brew.docx.svn-base"/>
+<modify-entry
+   name="KCMO-Proof-of-Publication-Brew-to-Brew.docx"
+   checksum="b76c06b1d4d30e3804cf339429b3c2c6"/>
+<modify-entry
+   name="KCMO-Proof-of-Publication-Brew-to-Brew.docx"
+   text-time="working"/>
+<modify-entry
+   name="KCMO-Proof-of-Publication-Brew-to-Brew.docx"
+   working-size="working"/>
+<modify-entry
+   committed-rev="1"
+   committed-date="2015-09-03T16:52:27.580572Z"
+   name=""
+   last-author="aolson"
+   uuid="7539bacb-9767-4275-84b0-f8f7c790b6fa"/>
+<modify-wcprop
+   name=""
+   propname="svn:wc:ra_dav:version-url"
+   propval="/kcraceday/!svn/ver/1/wp-content/uploads/gravity_forms/2-8600c3fb1a4faa93e5e61fcb0678146c/2014/12"/>

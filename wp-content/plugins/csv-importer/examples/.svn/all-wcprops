@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/examples
+END
+comments.csv
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/examples/comments.csv
+END
+functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/examples/functions.inc.php
+END
+custom-taxonomies.csv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/examples/custom-taxonomies.csv
+END
+sample.csv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/examples/sample.csv
+END
+sample-advanced.csv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/kcraceday/!svn/ver/1/wp-content/plugins/csv-importer/examples/sample-advanced.csv
+END

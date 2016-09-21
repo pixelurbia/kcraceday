@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Loader
+END
+StringLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Loader/StringLoader.php
+END
+MutableLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Loader/MutableLoader.php
+END
+ArrayLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/kcraceday/!svn/ver/1/wp-content/plugins/slider/lib/Mustache/Loader/ArrayLoader.php
+END

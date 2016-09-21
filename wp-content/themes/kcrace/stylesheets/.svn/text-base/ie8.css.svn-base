@@ -1,0 +1,1 @@
+#year-select, #month-select, .cal-c #city-select, .sidebar .form select { background-position: 10000px 100000px!important; padding-right:0px;}

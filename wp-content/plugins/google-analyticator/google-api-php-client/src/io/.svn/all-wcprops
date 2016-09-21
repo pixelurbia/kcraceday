@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/kcraceday/!svn/ver/1/wp-content/plugins/google-analyticator/google-api-php-client/src/io
+END
+Google_CurlIO.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/kcraceday/!svn/ver/1/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_CurlIO.php
+END
+Google_REST.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kcraceday/!svn/ver/1/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_REST.php
+END
+Google_CacheParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/kcraceday/!svn/ver/1/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_CacheParser.php
+END
+cacerts.pem
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/kcraceday/!svn/ver/1/wp-content/plugins/google-analyticator/google-api-php-client/src/io/cacerts.pem
+END
+Google_HttpStreamIO.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/kcraceday/!svn/ver/1/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_HttpStreamIO.php
+END
+Google_IO.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/kcraceday/!svn/ver/1/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_IO.php
+END
+Google_HttpRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/kcraceday/!svn/ver/1/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_HttpRequest.php
+END
